@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg2"
+    sodipodi:docname="sports.jpg"
+    viewBox="0 0 200 200"
+    version="1.1"
+    inkscape:version="0.48.2 r9819"
+  >
+    <sodipodi:namedview
+      id="namedview4"
+      fit-margin-left="0"
+      inkscape:zoom="0.52307373"
+      borderopacity="1"
+      inkscape:current-layer="svg2"
+      inkscape:cx="399.78937"
+      inkscape:cy="460.2842"
+      inkscape:window-maximized="1"
+      showgrid="false"
+      fit-margin-right="0"
+      bordercolor="#666666"
+      inkscape:window-x="-8"
+      guidetolerance="10"
+      objecttolerance="10"
+      inkscape:window-y="-8"
+      fit-margin-bottom="0"
+      inkscape:window-width="1920"
+      inkscape:pageopacity="0"
+      inkscape:pageshadow="2"
+      pagecolor="#ffffff"
+      gridtolerance="10"
+      inkscape:window-height="996"
+      fit-margin-top="0"
+  />
+
+<g class="sprite" id="run">
+  <path
+      id="path2987"
+      style="stroke:#000000;stroke-linecap:round;stroke-width:11.4;fill:none"
+      inkscape:connector-curvature="0"
+      d="m45.029 36.796 27.119-16.102 29.661 20.763 0.84746 28.814h30.932"
+  />
+  <path
+      id="path2989"
+      style="stroke:#000000;stroke-linecap:round;stroke-width:11.4;fill:none"
+      inkscape:connector-curvature="0"
+      d="m96.301 38.914-39.407 23.729-9.7458 23.305-40.678 13.559"
+  />
+  <path
+      id="path2991"
+      style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:11.4;fill:none"
+      inkscape:connector-curvature="0"
+      d="m98.843 43.999-31.356 18.644 7.2034 26.695-29.237 21.61"
+  />
+  <path
+      id="path2993"
+      sodipodi:rx="8.474576"
+      sodipodi:ry="8.2627115"
+      style="stroke-linejoin:round;stroke:#000000;stroke-linecap:round;stroke-width:4.1;fill:#000000"
+      sodipodi:type="arc"
+      d="m213.14-645.55a8.4746 8.2627 0 1 1 -16.949 0 8.4746 8.2627 0 1 1 16.949 0z"
+      transform="matrix(1.1233 0 0 1.1233 -103.9 763.83)"
+      sodipodi:cy="-645.55084"
+      sodipodi:cx="204.66101"
+  />
+</g>
+
+<g class="sprite" id="run">
+</g>
+
+<g class="sprite" id="run">
+</g>
+
+
+</svg>
