@@ -5,6 +5,7 @@ Create Resume / CV easily with WordPress. Perfect way tools that help you to mak
 * Create a Page and choose Template : Resume CV Template
 * In the admin area . Click Resume CV and do modification than save
 * You can see the demo here : http://wpamanuke.com/resume
+* You can download in wordpress repository too https://wordpress.org/plugins/resume-cv/
 
 ## Features ##
 
