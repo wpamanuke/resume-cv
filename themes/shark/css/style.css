@@ -1,0 +1,269 @@
+body {
+	font-family:'Raleway';
+	color:#606060;
+	font-size:13px;
+	background:#000000;
+}
+h1,h2,h3,h4,h5,h6 {
+	color: #303030;
+}
+img {
+	max-width: 100%;
+}
+.--l-rcv-box {
+	max-width:1200px;
+	margin:30px auto;
+	background:#ffffff;
+	overflow:hidden;
+}
+.--l-rcv-top-space {
+	margin-top:40px;
+}
+.--ul-reset{
+	list-style : none;
+	margin:0;
+	padding:0;
+	float:left;
+}
+.clear-fix {
+	clear:both;
+}
+/* SIDEBAR */
+.sidebar__h{
+	font-size:16px;
+	font-weight:600;
+	color:#00a1cb;
+	text-transform: uppercase;
+	margin-bottom:30px;
+}
+.sidebar__h i.fa {
+	margin-right: 13px;
+}
+.sidebar__content {
+	margin-bottom:60px;
+}
+
+/* SIDEBAR-RIGHT */
+.sidebar-right__h {
+	font-size:16px;
+	font-weight:600;
+	color:#00a1cb;
+	text-transform: uppercase;
+	margin-bottom:30px;
+}
+.sidebar-right__content {
+	margin-bottom:50px;
+}
+
+.--white {
+	color: #ffffff;
+}
+.--black {
+	color: #101010;
+}
+.--blue {
+	color: #00a1cb;
+}
+/**
+* PROFILE
+**/
+.rcv-profile {
+	background:#00a1cb;
+}
+.rcv-profile__content {
+	text-align: center;
+	padding: 0 10px 20px;
+}
+.rcv-profile__name {
+	font-size: 24px;
+	font-weight:800;
+	color:#ffffff;
+}
+.rcv-profile__profession {
+	color:#ffffff;
+}
+.rcv-profile__personalitems {
+	text-align:center;
+	margin-bottom:20px;
+}
+.rcv-profile__personalitem {
+	margin-bottom:15px;
+}
+.rcv-profile__title {
+	font-size:26px;
+	color:#00a1cb;
+	font-weight:400;
+	margin-top:0px;
+}
+.rcv-profile__title span {
+	font-weight:900;
+}
+.rcv-profile__description {
+	
+}
+/**
+* CONTACT
+**/
+.rcv-contact {
+	font-size:14px;
+	line-height:1.7;
+}
+.rcv-contact li {
+	margin-bottom:5px;
+	font-weight:300;
+	color:#303030;
+}
+.rcv-contact li i.fa {
+	width:20px;
+	color:#00a1cb;
+}
+.rcv-contact li span {
+	
+}
+
+/**
+* SKILLBAR
+**/
+.rcv-skillbar {
+	padding-bottom:20px;
+}
+.rcv-skillbar__content {
+	margin-bottom:10px;
+}
+.rcv-skillbar__content {
+	font-size:14px;
+}
+.rcv-skillbar__name {
+	color: #303030;
+}
+.rcv-skillbar__value {
+	color: #9f9f9f;
+}
+.rcv-skillbar__item{
+	height:16px;
+	background:#26afd3;
+}
+.rcv-skillbar__item.--blue {
+	background:#26afd3;
+}
+
+/**
+*	AWARDS
+**/
+.rcv-award__content {
+	margin-bottom:30px;
+}
+.rcv-award__title {
+	font-size:15px;
+	color: #303030;
+}
+.rcv-award__event {
+	font-size:13px;
+	color: #bcbcbc;
+	margin-bottom:3px;
+}
+.rcv-award__description {
+	font-size:12px;
+}
+
+/**
+*	RERERENCE
+**/
+.rcv-reference__content {
+	margin-bottom:30px;
+}
+.rcv-reference__name{
+	font-size:15px;
+	color: #303030;
+}
+.rcv-reference__title {
+	font-size:12px;
+	color: #1c1c1c;
+}	
+.rcv-reference__company {
+	font-size:13px;
+	color: #bcbcbc;
+	margin-bottom:3px;
+}
+.rcv-reference__list {
+	margin-bottom:3px;
+}
+.rcv-reference__items {
+	font-size:12px;
+	margin-bottom:1px;
+}
+.rcv-reference__item {
+	font-weight:500;
+	color:#00000;
+}
+.rcv-reference__value{
+}
+
+.rcv-reference__description {
+	font-size:12px;
+}
+
+/**
+* EDUCATION
+**/
+.timeline {
+	position:relative;
+}
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #ececec;
+    top: 0;
+    bottom: 0;
+    left: 10px;
+    margin-left: 0px;
+}
+
+.rcv-education__content{
+	margin:0;
+	padding:0 0 0 35px;
+	position:relative;
+}
+.rcv-education__content::after {
+    content: '';
+    position: absolute;
+	width: 25px;
+    height: 25px;
+    left: 0px;
+    background-color: white;
+    border: 4px solid #ececec;
+    top: 0px;
+    border-radius: 50%;
+    z-index: 1;
+}
+.rcv-education__program {
+	font-size:14px;
+}
+.rcv-education__school {
+	font-size:12px;
+	margin-right:10px;
+	
+}
+.rcv-education__year {
+	font-size:12px;
+	color:#00a1cb;
+}
+.rcv-education__description{
+	font-size:13px;
+}
+
+/**
+* HOBBY
+**/
+.rcv-hobby {
+	text-align:center;
+}
+.rcv-hobby__item {
+	width:130px;
+	float:left;
+	margin-bottom:5px;
+}
+.rcv-hobby__icon {
+	margin-bottom:2px;
+}
